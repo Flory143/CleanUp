@@ -1,5 +1,5 @@
 __author__ = 'https://github.com/Flory143'
-__version__ = '0.0.6'
+__version__ = '0.1.0'
 
 import os
 import platform
